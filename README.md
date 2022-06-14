@@ -6,7 +6,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on QA Engineer
 - 🌱 I’m currently learning Automation Testing 
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on Buddy QA Engineer
 - 🤔 I’m looking for help with Code Reviewer & Mentor Automation Testing code
 - 💬 Ask me about Software Quality 
 - 📫 How to reach me: Email/Instagram. 
