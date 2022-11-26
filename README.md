@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on Buddy QA Engineer
 - 🤔 I’m looking for help with Code Reviewer & Mentor Automation Testing code
 - 💬 Ask me about Software Quality, Cyber Security, Manual Testing, etc. 
-- 📫 How to reach me: Email/Instagram. 
+- 📫 How to reach me: Linkedin/Instagram. 
  
 
 ## 🌐Socials
