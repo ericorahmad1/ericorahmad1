@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on QA Engineer
-- 🌱 I’m currently learning Automation Testing 
+- 🔭 I’m currently working as QA Engineer
+- 🌱 I’m currently learning Automation Testing Web & Mobile.
 - 👯 I’m looking to collaborate on Buddy QA Engineer
 - 🤔 I’m looking for help with Code Reviewer & Mentor Automation Testing code
-- 💬 Ask me about Software Quality, Cyber Security, Manual Testing, etc. 
-- 📫 How to reach me: Linkedin/Instagram. 
+- 💬 Ask me about Software Quality Assurance, Cyber Security, Manual Testing, Network Security etc. 
+- 📫 How to reach me: Linkedin / Instagram. 
  
 
 ## 🌐Socials
